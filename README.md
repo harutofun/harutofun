@@ -26,12 +26,13 @@ here's what I like to make:
 - very mysterious mystery (single)
 
 
-inspirations:
 
-Frog Detective
-Kero Kero Bonito
-Pikuniku
-Undertale
+---- inspirations ----
+
+- Frog Detective
+- Kero Kero Bonito
+- Pikuniku
+- Undertale
 
 
 <!---
