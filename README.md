@@ -6,8 +6,8 @@ I'm haruto and I love to make art.
 here's what I like to make:
 
 - INDIE GAME -
-genre: narrative adventure with survival elements
-engine: gamemaker / unity / RPG maker mv / visual novel maker / RPG paper maker
+// genre: narrative adventure with survival elements
+// engine: gamemaker / unity / RPG maker mv / visual novel maker / RPG paper maker
 projects:
 - Super SpaceMail
 
