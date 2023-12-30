@@ -1,4 +1,3 @@
-[ENGLISH]
 hi, there!
 I'm haruto and I love to make art.
 
