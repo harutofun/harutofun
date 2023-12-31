@@ -13,13 +13,13 @@ Super SpaceMail
 # genre:      narrative adventure with survival elements
 # engine:     gamemaker / unity / RPG maker mv / visual novel maker / RPG paper maker
 # projects:
-              - Super SpaceMail
+- Super SpaceMail
 
 ----- MANGA -----
 # genre:      fantasy adventure with comedy / slice-of-life
 # art style:  monochromatic pixel art
 # projects:
-              - SpaceMail b4 Super
+- SpaceMail b4 Super
 
 ----- ART -----
 # genre:      cartoonish cute pixel art
@@ -27,8 +27,8 @@ Super SpaceMail
 ----- MUSIC -----
 # genre:      electronic chiptune soundtrack
 # projects:
-              - Super SpaceMail Soundtrack (album)
-              - very mysterious mystery (single)
+- Super SpaceMail Soundtrack (album)
+- very mysterious mystery (single)
 
 
 ----- IMPORTANT NOTES -----
