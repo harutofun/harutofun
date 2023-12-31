@@ -3,6 +3,10 @@
 # I'm haruto and I love to make art.
 
 
+----- IN PROGRESS -----
+Super SpaceMail
+
+
 # here's what I like to make:
 
 ----- INDIE GAME -----
@@ -26,4 +30,7 @@
 - Super SpaceMail Soundtrack (album)
 - very mysterious mystery (single)
 
+
+----- IMPORTANT NOTES -----
+# i'm producing one shot (manga) at the moment until some manga reaches the goal of 100 READERS on AMAZON!
 
