@@ -7,7 +7,7 @@
 Super SpaceMail
 
 
-# here's what I like to make:
+# here's what i like to make:
 
 ----- INDIE GAME -----
 # genre:      narrative adventure with survival elements
