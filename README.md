@@ -1,7 +1,6 @@
 ```bash
-# Welcome to My GitHub Profile! ð
-hi, there!
-I'm haruto and I love to make art.
+# hi, there!
+# I'm haruto and I love to make art.
 
 
 here's what I like to make:
@@ -28,7 +27,3 @@ here's what I like to make:
 - very mysterious mystery (single)
 
 
-<!---
-harutobessa/harutobessa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
