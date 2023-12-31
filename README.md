@@ -32,5 +32,6 @@ Super SpaceMail
 
 
 ----- IMPORTANT NOTES -----
-# i'm producing one shot (manga) at the moment until some manga reaches the goal of 100 READERS on AMAZON!
+# i'm currently working on several one-shot manga projects, and i'll continue creating more until each one reaches the goal of 100 readers on Amazon!
+# i must FEED the IMAGINATION CREATURE
 
