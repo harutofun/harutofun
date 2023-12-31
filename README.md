@@ -1,3 +1,5 @@
+```bash
+# Welcome to My GitHub Profile! ð
 hi, there!
 I'm haruto and I love to make art.
 
