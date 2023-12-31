@@ -3,7 +3,7 @@
 # I'm haruto and I love to make art.
 
 
------ IN PROGRESS -----
+----- ON PROGRESS -----
 Super SpaceMail
 
 
