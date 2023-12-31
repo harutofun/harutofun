@@ -3,7 +3,7 @@
 # I'm haruto and I love to make art.
 
 
-here's what I like to make:
+# here's what I like to make:
 
 ----- INDIE GAME -----
 # genre: narrative adventure with survival elements
