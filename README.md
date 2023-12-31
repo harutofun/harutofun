@@ -1,6 +1,6 @@
 ```bash
 # hi, there!
-# I'm haruto and I love to make art.
+# i'm haruto and i love to make art.
 
 
 ----- ON PROGRESS -----
