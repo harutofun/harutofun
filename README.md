@@ -2,6 +2,7 @@
 ```bash
 # hi, there!
 # i'm haruto and i make surreal games.
+# i always forget to use this thing t-t
 
 
 ----- GAMES -----
