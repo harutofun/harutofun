@@ -13,7 +13,7 @@
 # game:          Godot
 # pixel art:     Aseprite
 # 3d low poly:   Blockbench
-# chiptune:      1BITDRAGON
+# chiptune:      Lovely Composer
 
 
 ```
