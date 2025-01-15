@@ -11,7 +11,5 @@
 
 ```
 
-![Super SpaceMail](https://raw.githubusercontent.com/harutofun/harutofun/main/widget.svg)
-
 
 
