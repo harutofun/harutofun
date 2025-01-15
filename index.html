@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Readme Widget</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #0d1117; /* Cor de fundo do GitHub Dark Mode */
+      color: #c9d1d9; /* Cor de texto padrão no GitHub */
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      min-height: 100vh;
+      margin: 0;
+    }
+
+    .widget {
+      display: flex;
+      background-color: #161b22; /* Cor do container */
+      border: 1px solid #30363d; /* Borda */
+      border-radius: 8px;
+      overflow: hidden;
+      width: 600px;
+      box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+    }
+
+    .thumbnail {
+      flex: 1;
+      background-image: url('https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZonmoMKVkzWSTb0pGqeXJfayyDPPc-6TYMe2yt0XtL61QUWWDJjbvBMUpzIVcID1Z00heqKSheONYhY0-rxnBJS_wkWu0bjQKonIYYjDeA53JCD4KgKk8EteU-71Y0x9LmPXkdq6hXKS4VKXQq-MHChRUFwGSv_4YmzL0VjA8pdda-yLAukXcQ-jTNoBK/s16000/gamebanner_animated.gif'); /* Substitua pela URL da thumbnail */
+      background-size: cover;
+      background-position: center;
+    }
+
+    .details {
+      flex: 2;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-between;
+    }
+
+    .details h2 {
+      margin: 0;
+      font-size: 1.5em;
+    }
+
+    .details p {
+      margin: 4px 0;
+      font-size: 0.9em;
+      color: #8b949e; /* Cor secundária */
+    }
+
+    .details .stats {
+      margin-top: 8px;
+      font-size: 0.9em;
+      display: flex;
+      justify-content: space-between;
+    }
+
+    .progress-bar-container {
+      margin-top: 12px;
+    }
+
+    .progress-section {
+      display: flex;
+      align-items: center;
+      margin-bottom: 8px;
+    }
+
+    .progress-section span {
+      width: 120px;
+      font-size: 0.9em;
+      color: #c9d1d9;
+    }
+
+    .progress-bar {
+      flex: 1;
+      background-color: #21262d; /* Fundo da barra */
+      border-radius: 4px;
+      height: 10px;
+      overflow: hidden;
+      position: relative;
+    }
+
+    .progress-bar div {
+      height: 100%;
+      border-radius: 4px;
+    }
+
+    .essentials { background-color: #238636; width: 10%; } /* Exemplo: 70% concluído */
+    .base { background-color: #58a6ff; width: 20%; }      /* Exemplo: 50% concluído */
+    .world-building { background-color: #f78166; width: 40%; } /* Exemplo: 40% concluído */
+    .lore-wise { background-color: #d29922; width: 30%; }  /* Exemplo: 30% concluído */
+
+  </style>
+</head>
+<body>
+  <div class="widget">
+    <div class="thumbnail"></div>
+    <div class="details">
+      <h2>Game Title</h2>
+      <p>Engine: GameMaker Studio 2</p>
+      <div class="stats">
+        <span>Issues Abertas: 15</span>
+        <span>Bugs: 5</span>
+      </div>
+      <div class="progress-bar-container">
+        <div class="progress-section">
+          <span>Essentials</span>
+          <div class="progress-bar"><div class="essentials"></div></div>
+        </div>
+        <div class="progress-section">
+          <span>Base</span>
+          <div class="progress-bar"><div class="base"></div></div>
+        </div>
+        <div class="progress-section">
+          <span>World Building</span>
+          <div class="progress-bar"><div class="world-building"></div></div>
+        </div>
+        <div class="progress-section">
+          <span>Lore-Wise</span>
+          <div class="progress-bar"><div class="lore-wise"></div></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
