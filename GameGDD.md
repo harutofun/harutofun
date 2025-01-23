@@ -1,4 +1,4 @@
-## Game name ![Status](https://img.shields.io/badge/10%25-green) ![Static Badge](https://img.shields.io/badge/%F0%9F%AA%B2-1-green)
+## Game name ![Status](https://img.shields.io/badge/10%25-green) ![bugs](https://img.shields.io/badge/%F0%9F%AA%B2-1-green)
 _Game description on store._
 > _Question or Theme_
 
@@ -8,21 +8,64 @@ _Game description on store._
 
 ### 🛠️ Tools
 
-> - **Engine**: __
-> - **Art**: __
-> - **SFX and OST**: __
-> - **Other**: __
+**Engine**: __  
+**Art**: __  
+**SFX and OST**: __  
+**Other**: __  
 
 
 ### 🎮 Features
 
-> - **Gameplay**: __
-> - **Common Genre**: __
-> - **View**: __
-> - **Art style**: __
-> - **Music and Sound**: __
-> - **Highlights**: __
-> - **Tags**: __
+**Main Gameplay**: __  
+**Common Genre**: __  
+**View**: __  
+**Art style**: __  
+**Music and Sound**: __  
+**Highlights**: __  
+**Tags**: __  
+
+
+## 🪀 Gameplay
+### 🕹️ Player Input
+> [!TIP]
+> How the player will interact with the game.  
+> _Example in Point-and-click:  "Mouse left button: click, drag, drop..."_
+
+
+### 🔓 Puzzles
+> [!TIP]
+> How the player input can be used to solve problems.  
+> _Example in Point-and-Click:  "Find the remaining pieces for a special fishing fly."_
+
+
+### 🪝 Mini Games
+> [!TIP]
+> Secondary gameplay style used to create balance and relief moments.  
+> _Example in Point-and-Click:  "Catch the fish by clicking really fast."_
+
+
+### 💣 Boss battle
+> [!TIP]
+> Challenge the player with the gameplay he already knows, but harder.  
+> _Example in Point-and-Click:  "The fish became a giant trout and you need to click (punch) her down."_
+
+
+### 🧱 Obstacle
+> [!TIP]
+> Something that will make the game challenging and remind the player where he needs to go.  
+> _Example in Point-and-Click:  "You need to drink water sometimes to be able to click, what makes you need to find water as well."_
+
+
+### 🪙 Reward
+> [!TIP]
+> What the player receives after completing a difficult task.  
+> _Example in Point-and-Click:  "You get water!"_
+
+
+### 🎉 Objective
+> [!TIP]
+> Main goal of the game. Something the player will keep in mind and get closer and closer.  
+> _Example in Point-and-Click:  "Beat an incomprehensive force of nature that threatens all existence using your fists and a fish helmet."_
 
 
 ## 📑 Scope
