@@ -102,7 +102,13 @@ _Game description on store._
 ![Companions](https://img.shields.io/badge/Companions-_10-blue)
 ![Bosses](https://img.shields.io/badge/Bosses-_10-blue)
 ![Ends](https://img.shields.io/badge/Ends-_10-blue)
-![Achievements](https://img.shields.io/badge/Achievements-_10-blue)
+![Achievements](https://img.shields.io/badge/Achievements-_10-blue)  
 
 
-_haruto.fun 2025 © All rights reserved._
+
+
+> _© haruto.fun, All Rights Reserved._  
+> _You are free to copy, modify, and use this document as a template for your own projects. However, you are not allowed to sell, distribute, or otherwise monetize this template in any way._
+> _If you have any questions regarding this license, feel free to reach out!_  
+> _My email: dev@haruto.fun_
+> _My website: [haruto.fun](https://www.haruto.fun/)_
