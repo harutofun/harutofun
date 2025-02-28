@@ -9,3 +9,5 @@ _Hello, friend! Welcome to my GitHub! Feel free to check my stores._
 
 ## Games
 [![image](https://haruto.fun/assets/img/home/ssm_thumb.gif)](https://store.steampowered.com/app/1870400/Super_SpaceMail/)
+
+![image](Assets/main_quest.png)
