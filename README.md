@@ -1,4 +1,6 @@
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&redirect=true)
 
+## 👁️ What I am up to
 ![main](Assets/main_quest.png)
 ![leveling](Assets/levels.png)
 
