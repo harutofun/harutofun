@@ -1,6 +1,5 @@
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&redirect=true)
-[![Discord Presence](https://lanyard.cnrad.dev/api/986953416540569600?hideProfile=true&hideTimestamp=true&hideTag=true&hideSpotify=true&idleMessage=oh,%20I%20forgot%20to%20open%20Discord%20lol)](https://discord.com/users/986953416540569600)
-
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=false&theme=default&show_offline=true&background_color=010409&interchange=false)](https://github.com/kittinan/31zlyknw4bfc6j5d7x7u7nh6ubm4)
+[![Discord Presence](https://lanyard.cnrad.dev/api/986953416540569600?bg=010409&theme=dark&hideProfile=true&hideSpotify=true&hideTag=true)](https://discord.com/users/986953416540569600)
 
 ## 👁️ What I am up to
 ![main](Assets/main_quest.png)
