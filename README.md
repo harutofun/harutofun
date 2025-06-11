@@ -1,5 +1,5 @@
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=false&theme=default&show_offline=true&background_color=010409&interchange=false)](https://github.com/kittinan/31zlyknw4bfc6j5d7x7u7nh6ubm4)
-[![Discord Presence](https://lanyard.cnrad.dev/api/986953416540569600?bg=010409&theme=dark&hideProfile=true&hideSpotify=true&hideTag=true)](https://discord.com/users/986953416540569600)
+[![Discord Presence](https://lanyard.cnrad.dev/api/986953416540569600?bg=010409&theme=dark&hideProfile=true&hideSpotify=true&hideTag=true&idleMessage=Oh%2C%20I%20forgot%20to%20open%20Discord...%20Or%20I'm%20doing%20something%20else%20lol)](https://discord.com/users/986953416540569600)
 
 ## 👁️ What I am up to
 ![main](Assets/main_quest.png)
