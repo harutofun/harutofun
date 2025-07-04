@@ -11,8 +11,8 @@
 
 ## 🕹️ Games
 <a href="https://store.steampowered.com/app/1870400/Super_SpaceMail/" target="_blank">
-  <img src="https://img.itch.zone/aW1nLzExNTk5ODgzLmdpZg==/315x250%23cm/FAhBrf.gif" width="315" height="250" />
+  <img src="https://img.itch.zone/aW1nLzExNTk5ODgzLmdpZg==/315x250%23cm/FAhBrf.gif" width="252" height="200" />
 </a>
 <a href="https://harutofun.itch.io/lostincode" target="_blank">
-  <img src="https://img.itch.zone/aW1nLzE3NDkzNzIwLmdpZg==/315x250%23cm/hHBwEu.gif" width="315" height="250" />
+  <img src="https://img.itch.zone/aW1nLzE3NDkzNzIwLmdpZg==/315x250%23cm/hHBwEu.gif" width="252" height="200" />
 </a>
