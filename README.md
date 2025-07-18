@@ -16,3 +16,7 @@
 <a href="https://harutofun.itch.io/lostincode" target="_blank">
   <img src="https://img.itch.zone/aW1nLzE3NDkzNzIwLmdpZg==/315x250%23cm/hHBwEu.gif" width="252" height="200" />
 </a>
+<a href="https://bsky.app/profile/haruto.fun" target="_blank">
+  <img src="https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:yvzzef625bgj6ratweirg5gu/bafkreih7aadlb6x2kbhh4n2w2dkdqd2j47ljm5yendrnumvhf532ztifc4@jpeg" width="252" height="200" />
+</a>
+
