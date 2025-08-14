@@ -1,9 +1,11 @@
-![harurururururu](https://steam-stat.vercel.app/api?profileName=harurururururu) 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=false&theme=default&show_offline=true&background_color=171a21&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&redirect=true)   
-
 ✨ <a href="https://www.patreon.com/harutofun" target="_blank">
   <img src="https://raw.githubusercontent.com/elsiehupp/patron-buttons/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg" width="300" />
 </a>  ✨
+
+![harurururururu](https://steam-stat.vercel.app/api?profileName=harurururururu) 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&cover_image=false&theme=default&show_offline=true&background_color=171a21&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31zlyknw4bfc6j5d7x7u7nh6ubm4&redirect=true)   
+
+
 
 ## 💾 My tools
 <img src="https://cdn2.steamgriddb.com/icon/e500b7708a865ec27eef36c33953b06e/32/256x256.png" width="40" height="40" /> GameMaker ㅤ 
