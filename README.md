@@ -28,7 +28,7 @@ _**Cool fact:** I built my first prototype in 2016, but I only began dedicating 
 
 ### 🦖 CREATIONS OF THE BEAST
 <a href="https://store.steampowered.com/app/1870400/Super_SpaceMail/" target="_blank">
-  <img src="https://img.itch.zone/aW1nLzIyMjA4NjAwLmdpZg==/315x250%23cm/8xym8k.gif" align="left" width="252" height="200" />
+  <img src="Assets/main/spacemail.gif" align="left" width="196">
 </a>
 
 ㅤ**TITLE:** _Super SpaceMail_  
