@@ -10,6 +10,7 @@
 ㅤ**Weaknesses:** Autism, dyslexia, dyscalculia, can't talk to strangers _(working on it)_  
 ㅤ**Companion:** _Bino, the Ghost Rabbit God_  
 ㅤ  
+ㅤ  
 _**Cool fact:** I built my first prototype in 2016, but I only began dedicating myself to it in 2021, after dropping out of college and quitting my job during the pandemic, following a series of traumatic events that made me rethink my life and decide to follow my dreams._  
 ### ⚔️ WEAPONS AND MASTERY
 <img src="Assets/main/drawing.gif" align="left" width="196">
