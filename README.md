@@ -34,7 +34,7 @@ _**Cool fact:** I built my first prototype in 2016, but I only began dedicating 
 ㅤ**TITLE:** _Super SpaceMail_  
 ㅤ**RELEASE DATE:** _Coming soon_  
 ㅤ**GENRE:** Adventure  
-ㅤ**TAGS:** Point-and-click, horror, open-world, multiple-endings, story driven  
+ㅤ**TAGS:** Point-and-click, horror, open-world, multiple-endings, story-driven  
 ㅤ**DESCRIPTION:** _Super SpaceMail is a point-and-click adventure game about connections where you play as a mailman delivering letters in space, making friends, and solving a mystery way bigger than this universe._  
 
 
