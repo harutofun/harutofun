@@ -1,3 +1,36 @@
+## _👁️ KNOW YOUR HORROR_ 
+**Entity name:** _haruto.fun_  
+**A.K.A.:** uto, Haruto Bessa, the thing  
+**Race:** _Cosmic horror_  
+**Class:** Multiclass in Game Designer, Composer, Developer, Artist, Director   
+**Origin:** _Brasil_ / Rio de Janeiro  
+**Abilities:** Polymath, Self-taught, bearer of the _Emerald Ring_, Stop-Motion Master  
+**Weaknesses:** Autism, dyslexia, dyscalculia, can't talk to strangers _(working on it)_  
+**Companion:** _Bino, the Ghost Rabbit God_ 
+
+### ⚔️ WEAPONS AND MASTERY
+**GameMaker:** ㅤ  ㅤ ㅤ> 3300 h ㅤ 4 _prototypes_ ㅤ 1 _big game (ongoing)_  
+**Aseprite:** ㅤ  ㅤ  ㅤ  ㅤ > 1500 h ㅤ _way too many sprites_  
+**RPG Paper Maker:** ㅤ> 160 hㅤㅤ2 _prototypes_ ㅤ 1 _game (ongoing)_  
+**Lovely Composer:** ㅤ> 20 h ㅤㅤ 3 _published songs_   
+**Blockbench:** ㅤ  ㅤ  ㅤ _way too many props_  
+**Godot:** ㅤ  ㅤ  ㅤ  ㅤ _ㅤbeginner_  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ✨ <a href="https://www.patreon.com/harutofun" target="_blank">
   <img src="https://raw.githubusercontent.com/elsiehupp/patron-buttons/master/svg/become_a_patron_4x1_coral_logo_white_text_on_black.svg" width="300" />
 </a>  ✨
