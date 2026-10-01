@@ -18,8 +18,8 @@ _**Cool fact:** I built my first prototype in 2016, but I only began dedicating 
 ㅤ**GameMaker:** ㅤ  ㅤ ㅤ> 3300 h ㅤ 6 _prototypes_ ㅤ 1 _big game (ongoing)_  
 ㅤ**Aseprite:** ㅤ  ㅤ  ㅤ  ㅤ > 1500 h ㅤ _way too many sprites_  
 ㅤ**RPG Paper Maker:** ㅤ> 160 hㅤㅤ2 _prototypes_ ㅤ 1 _game (ongoing)_  
+ㅤ**Blender:**ㅤㅤㅤㅤㅤㅤ> 130 h ㅤ _and way too many props before I started tracking_  
 ㅤ**Lovely Composer:** ㅤ> 20 h ㅤㅤ 3 _published songs_   
-ㅤ**Blockbench:** ㅤ  ㅤ  ㅤ _way too many props_  
 ㅤ**Godot:** ㅤ  ㅤ  ㅤ  ㅤ _ㅤbeginner_  
 ㅤ**Studying at the moment:**  Human anatomy, hero games, SFX, Godot engine
 
