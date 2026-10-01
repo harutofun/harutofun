@@ -21,7 +21,7 @@ _**Cool fact:** I built my first prototype in 2016, but I only began dedicating 
 ㅤ**Blender:**ㅤㅤㅤㅤㅤㅤ> 130 h ㅤ _and way too many props before I started tracking_  
 ㅤ**Lovely Composer:** ㅤ> 20 h ㅤㅤ 3 _published songs_   
 ㅤ**Godot:** ㅤ  ㅤ  ㅤ  ㅤ _ㅤbeginner_  
-ㅤ**Studying at the moment:**  Human anatomy, hero games, SFX, Godot engine
+ㅤ**Studying at the moment:**  Human anatomy, hero games, SFX, Godot Engine, Blender
 
 ㅤ  
 
