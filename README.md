@@ -6,8 +6,7 @@
 ㅤ**Race:** _Cosmic horror_  
 ㅤ**Class:** Multiclass in Game Designer, Composer, Developer, Artist, Director   
 ㅤ**Origin:** _Brasil_ / Rio de Janeiro  
-ㅤ**Abilities:** Polymath, Self-taught, bearer of the _Emerald Ring_, Stop-Motion Master  
-ㅤ**Weaknesses:** Autism, dyslexia, dyscalculia, can't talk to strangers _(working on it)_  
+ㅤ**Abilities:** Polymath, Self-taught, Stop-Motion Master, Nerd  
 ㅤ**Companion:** _Bino, the Ghost Rabbit God_  
 ㅤ  
 ㅤ  
